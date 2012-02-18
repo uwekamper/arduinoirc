@@ -1,4 +1,4 @@
-[![css dark](https://github.com/uwekamper/arduinoirc/arduinoirc.jpg)]
+![IRC client on a green screen monitor](https://github.com/uwekamper/arduinoirc/arduinoirc.jpg)
 
 This is an Internet Relay Chat (IRC) client running on an Arduino with Ethernet Shield.
 
